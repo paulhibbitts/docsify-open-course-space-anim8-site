@@ -11,5 +11,5 @@
   - [A7 - Walk Cycle](module-02-04-a7-walk-cycle.md)
 - [Module 3 - Final Project](module-3-final-project.md)
 - File Management
-  - [Overview](file-management.md)
+  - [File Management Overview](file-management.md)
   - [F2 - File Management Week 5](module-04-01-f2-file-management-week-5.md)
