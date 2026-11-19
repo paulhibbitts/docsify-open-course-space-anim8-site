@@ -13,7 +13,7 @@ Each module consists of a short video, reading, or demo that explains the concep
 
 
 
-<div class="card-list-rows">
+<div class="card-list-rows card-lines-2">
 
 <div class="card">
 

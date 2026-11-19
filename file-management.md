@@ -7,7 +7,7 @@ Create folders for your assignments in your student folder in the M drive.
 - Make sure that you've submitted the correct files for each assignment. Some assignments require a file submitted in Canvas, others require a .fla file, other require a .fla AND a .swf file.
 
 
-<div class="card-list-rows">
+<div class="card-list-rows card-lines-2">
 
 <div class="card">
 

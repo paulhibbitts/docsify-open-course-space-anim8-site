@@ -3,7 +3,7 @@
 We'll be using Adobe Animate to create a simple animation in order to get familiar with the software the workspace. In addition, we'll be starting to build a very simple 2D animation.
 
 
-<div class="card-list-rows">
+<div class="card-list-rows card-lines-2">
 
 <div class="card">
 
