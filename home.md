@@ -19,7 +19,7 @@ Each module consists of a short video, reading, or demo that explains the concep
 
 ## [Expectations](home-expectations.md) <!-- {docsify-ignore} -->
 
-In order to keep everyone as healthy as possible the following protocols must be followed:
+In order to keep everyone as healthy as possible the following protocols must be followed: Enter the classroom via the lower doorway, leave the classroom via the upper doorway; Wash hands/use sanitizer when entering the class; Physical distancing is not possible in the classroom, students may wear…
 
 </div>
 
@@ -27,8 +27,11 @@ In order to keep everyone as healthy as possible the following protocols must be
 
 ## [Big Ideas and Competencies](home-big-ideas-and-competencies.md) <!-- {docsify-ignore} -->
 
-Big Ideas Design cycle is an ongoing reflective process Personal design choices require self-exploration, collaboration, evaluation and refinement of skills Design and content can influence the lives of others Competencies Applied design: understanding context, defining points of view, ideating…
+Design cycle is an ongoing reflective process; Personal design choices require self-exploration, collaboration, evaluation and refinement of skills; Design and content can influence the lives of others; Applied design: understanding context, defining points of view, ideating, prototyping, testing…
 
 </div>
 
 </div>
+
+
+Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
