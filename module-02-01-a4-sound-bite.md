@@ -1,14 +1,4 @@
-<!-- grav: {"file":"30.modules/02.module-2-beyond-basic-2d-animation/01.a4-sound-bite/course-page.md","images":["megaphone.jpg"]}
-title: 'A4 - Sound Bite'
-published: true
-description: 'In this assignment we''ll use Adobe Animate to create an animation based around a soundbite. You can work with a partner for this project.'
-taxonomy:
-    category: docs
--->
-
-<!-- grav:gen -->
 # A4 - Sound Bite
-<!-- /grav:gen -->
 
 ![megaphone.jpg](images/megaphone.jpg)
 

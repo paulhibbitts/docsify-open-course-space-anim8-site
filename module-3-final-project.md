@@ -1,16 +1,4 @@
-<!-- grav: {"file":"30.modules/03.module-3-final-project/course-page.md"}
-title: 'Module 3 - Final Project'
-published: true
-description: 'In this final assignment you''re going to bring together everything that you''ve learned over the course of this class - motion tweens, frame by frame animation, using graphic symbols and movie clips, and adding sound to an animation. You may work with one partner for this project.'
-taxonomy:
-    category: docs
--->
-
-<!-- grav:gen -->
 # Module 3 - Final Project
-
-## In this final assignment you're going to bring together everything that you've learned over the course of this class - motion tweens, frame by frame animation, using graphic symbols and movie clips, and adding sound to an animation. You may work with one partner for this project. <!-- {docsify-ignore} -->
-<!-- /grav:gen -->
 
 In this final assignment you're going to bring together everything that you've learned over the course of this class - motion tweens, frame by frame animation, using graphic symbols and movie clips, and adding sound to an animation. **You may work with one partner for this project.**
 

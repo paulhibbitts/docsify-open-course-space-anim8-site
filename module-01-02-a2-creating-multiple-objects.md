@@ -1,14 +1,4 @@
-<!-- grav: {"file":"30.modules/01.module-1-basic-2d-objects/02.a2-creating-multiple-objects/course-page.md","images":["red_fish.JPG"]}
-title: 'A2 - Creating Multiple Objects'
-published: true
-description: 'Open up a new Animate file and create a document is 1920 px x 1080 px.'
-taxonomy:
-    category: docs
--->
-
-<!-- grav:gen -->
 # A2 - Creating Multiple Objects
-<!-- /grav:gen -->
 
 ## Assignment 2
 

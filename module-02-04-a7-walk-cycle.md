@@ -1,14 +1,4 @@
-<!-- grav: {"file":"30.modules/02.module-2-beyond-basic-2d-animation/04.a7-walk-cycle/course-page.md","images":["wlk01.gif"]}
-title: 'A7 - Walk Cycle'
-published: true
-description: 'One of the most challenging tasks of an animator is making a walk cycle. Using Adobe Animate, there are a number of different ways to approach this challenge.'
-taxonomy:
-    category: docs
--->
-
-<!-- grav:gen -->
 # A7 - Walk Cycle
-<!-- /grav:gen -->
 
 ![wlk01.gif](images/wlk01.gif)
 
@@ -19,7 +9,6 @@ We're going to use the approach of animating the cycle inside a graphic symbol, 
 This short video provides an overview of a basic walk cycle and the important steps in the cycle.
 
 
-<!-- grav-embed: [youtube]https://www.youtube.com/watch?v=2y6aVz0Acx0[/youtube] -->
 <div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/2y6aVz0Acx0" title="Video" frameborder="0" allowfullscreen="true"></iframe></div>
 
 

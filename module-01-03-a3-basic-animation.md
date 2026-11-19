@@ -1,14 +1,4 @@
-<!-- grav: {"file":"30.modules/01.module-1-basic-2d-objects/03.a3-basic-animation/course-page.md"}
-title: 'A3 - Basic Animation'
-published: true
-description: 'In this assignment we’ll use Adobe Animate to create a 10 second long animation of fish in an aquarium. Here''s a sample with a sound track added (note that adding sound is optional but it really makes your animation awesome!).'
-taxonomy:
-    category: docs
--->
-
-<!-- grav:gen -->
 # A3 - Basic Animation
-<!-- /grav:gen -->
 
 ## Assignment 3
 

@@ -1,14 +1,4 @@
-<!-- grav: {"file":"10.home/01.expectations/course-page.md"}
-title: 'Expectations'
-published: true
-description: 'In order to keep everyone as healthy as possible the following protocols must be followed:'
-taxonomy:
-    category: docs
--->
-
-<!-- grav:gen -->
 # Expectations
-<!-- /grav:gen -->
 
 In order to keep everyone as healthy as possible the following protocols must be followed:
 

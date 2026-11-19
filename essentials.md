@@ -1,15 +1,4 @@
-<!-- grav: {"file":"20.essentials/course-page.md"}
-title: 'Essentials'
-published: true
-taxonomy:
-    category: docs
-navigation:
-    toc_position: hidden
--->
-
-<!-- grav:gen -->
 # Essentials
-<!-- /grav:gen -->
 
 ## GPV - Digital Animation (D. Ingram)
 

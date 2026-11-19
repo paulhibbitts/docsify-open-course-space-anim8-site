@@ -1,21 +1,10 @@
-<!-- grav: {"file":"30.modules/02.module-2-beyond-basic-2d-animation/02.a5-face-expressions/course-page.md"}
-title: 'A5 - Face Expressions'
-published: true
-description: 'In this assignment we''ll use Adobe Animate to create a character with a series of facial expressions. You''ll be using the Looping property for Graphic Symbol and the Frame picker to create the facial expressions.'
-taxonomy:
-    category: docs
--->
-
-<!-- grav:gen -->
 # A5 - Face Expressions
-<!-- /grav:gen -->
 
 In this assignment we'll use Adobe Animate to create a character with a series of facial expressions. You'll be using the Looping property for Graphic Symbol and the Frame picker to create the facial expressions.
 
 This Youtube video gives you an overview of the process. Refer to the step by step process below the video.
 
 
-<!-- grav-embed: [youtube]https://www.youtube.com/watch?v=nNlIsln7Gmc[/youtube] -->
 <div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/nNlIsln7Gmc" title="Video" frameborder="0" allowfullscreen="true"></iframe></div>
 
 

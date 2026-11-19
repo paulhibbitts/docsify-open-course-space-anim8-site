@@ -1,16 +1,4 @@
-<!-- grav: {"file":"30.modules/04.file-management/course-page.md"}
-title: 'File Management'
-published: true
-description: 'Create folders for your assignments in your student folder in the M drive.'
-taxonomy:
-    category: docs
--->
-
-<!-- grav:gen -->
 # File Management
-
-## Create folders for your assignments in your student folder in the M drive. <!-- {docsify-ignore} -->
-<!-- /grav:gen -->
 
 Create folders for your assignments in your student folder in the M drive.
 

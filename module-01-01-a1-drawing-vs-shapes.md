@@ -1,14 +1,4 @@
-<!-- grav: {"file":"30.modules/01.module-1-basic-2d-objects/01.a1-drawing-vs-shapes/course-page.md","images":["twofish.jpg"]}
-title: 'A1 - Drawing vs Shapes'
-published: true
-description: 'In this simple assignment you''ll be building a simple object like a fish using the paint brush tool and a second fish using the shape tool. The objective is to compare the two methods of drawing/creating objects as well as give you some familiarity with the workspace.'
-taxonomy:
-    category: docs
--->
-
-<!-- grav:gen -->
 # A1 - Drawing vs Shapes
-<!-- /grav:gen -->
 
 ## Assignment 1
 

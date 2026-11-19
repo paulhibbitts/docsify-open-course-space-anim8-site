@@ -1,14 +1,4 @@
-<!-- grav: {"file":"30.modules/02.module-2-beyond-basic-2d-animation/03.a6-reaction/course-page.md"}
-title: 'A6 - Reaction'
-published: true
-description: 'In this assignment you''re going to be building on the simple facial expression assignment that you completed in A5 - Face Expressions. Create a short animation (minimum 15 seconds) that has two relatively realistic looking characters (this means that they need to have hair, eyebrows, ears, etc. - all the stuff that you''d normally see on a face). The characters can be human or they can be animals or something else, as long as the "face" has some detail and features. In this case, simple round circle isn''t sufficient. Each character has to be different. Use the Frame Picker technique that you learned in A5 to create a range of expressions for each character (minimum of 5/character). Once you have created the characters develop a scene where they react to a moving object that enters the scene - use your imagination for this part. It could be a flying bird or insect, it could be something falling from the sky, it could be something completely different.'
-taxonomy:
-    category: docs
--->
-
-<!-- grav:gen -->
 # A6 - Reaction
-<!-- /grav:gen -->
 
 In this assignment you're going to be building on the simple facial expression assignment that you completed in A5 - Face Expressions. Create a short animation (minimum 15 seconds) that has **two relatively realistic looking characters** (this means that they need to have hair, eyebrows, ears, etc. - all the stuff that you'd normally see on a face). The characters can be human or they can be animals or something else, as long as the "face" has some detail and features. In this case, simple round circle isn't sufficient. Each character has to be different. Use the Frame Picker technique that you learned in A5 to create a range of expressions for each character (minimum of 5/character). Once you have created the characters develop a scene where they **react to a moving object that enters the scene** - use your imagination for this part. It could be a flying bird or insect, it could be something falling from the sky, it could be something completely different.
 

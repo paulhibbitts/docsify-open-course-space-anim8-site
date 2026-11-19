@@ -1,16 +1,4 @@
-<!-- grav: {"file":"30.modules/02.module-2-beyond-basic-2d-animation/course-page.md"}
-title: 'Module 2 - Beyond Basic 2D Animation'
-published: true
-description: 'At this point you should have a basic understanding of how to draw objects and backgrounds in Animate and how to create simple animations using Motion Tweens.'
-taxonomy:
-    category: docs
--->
-
-<!-- grav:gen -->
 # Module 2 - Beyond Basic 2D Animation
-
-## At this point you should have a basic understanding of how to draw objects and backgrounds in Animate and how to create simple animations using Motion Tweens. <!-- {docsify-ignore} -->
-<!-- /grav:gen -->
 
 At this point you should have a basic understanding of how to draw objects and backgrounds in Animate and how to create simple animations using Motion Tweens.
 

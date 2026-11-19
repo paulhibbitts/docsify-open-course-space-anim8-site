@@ -1,14 +1,4 @@
-<!-- grav: {"file":"30.modules/04.file-management/01.f2-file-management-week-5/course-page.md"}
-title: 'F2 - File Management Week 5'
-published: true
-description: 'Create folders for your assignments in your student folder in the M drive.'
-taxonomy:
-    category: docs
--->
-
-<!-- grav:gen -->
 # F2 - File Management Week 5
-<!-- /grav:gen -->
 
 Create folders for your assignments in your student folder in the M drive.
 

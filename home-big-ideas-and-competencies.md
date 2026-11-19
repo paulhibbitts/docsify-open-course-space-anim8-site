@@ -1,14 +1,4 @@
-<!-- grav: {"file":"10.home/02.big-ideas-and-competencies/course-page.md"}
-title: 'Big Ideas and Competencies'
-published: true
-description: 'Big Ideas Design cycle is an ongoing reflective process Personal design choices require self-exploration, collaboration, evaluation and refinement of skills Design and content can influence the lives of others Competencies Applied design: understanding context, defining points of view, ideating…'
-taxonomy:
-    category: docs
--->
-
-<!-- grav:gen -->
 # Big Ideas and Competencies
-<!-- /grav:gen -->
 
 ## Big Ideas
 
