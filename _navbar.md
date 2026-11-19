@@ -1,0 +1,4 @@
+- [GPV - Digital Animation (D. Ingram)](home.md ":class=site-title")
+- [Essentials](essentials.md)
+- [Resources](resources.md)
+- [Syllabus](syllabus.md)
